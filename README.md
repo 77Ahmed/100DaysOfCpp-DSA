@@ -21,10 +21,10 @@
 
 ## 🚀 Daily Log
 
-| Day |      Topic    |   Notes       |           Code                |
-|-----|-------------------------------|-------------------------------|
-|  1  | Flowchart & Pseudocode        | [Notes](Week1/Day1-Lecture1/Notes-Lecture1-Flowchart-Pseudocode.md) | [Code](Week1/Day1-Lecture1/Lecture1-Flowchart-Pseudocode.cpp)  |
-|  2  | Variables, Input, Operators   | [Notes](Week1/Day2-Lecture2/Notes-Lecture2-Variables-Operators-IO.md) | [Code](Week1/Day2-Lecture2/Lecture2-Variables-Operators-IO.cpp) |
+| Day |     Topic      |           Notes             |           Cod                  |
+|-----|----------------|--------------------------------------------------------------|
+|  1  | Flowchart & Pseudocode| [Notes](Week1/Day1-Lecture1/Notes-Lecture1-Flowchart-Pseudocode.md)| [Code](Week1/Day1-Lecture1/Lecture1-Flowchart-Pseudocode.cpp) |
+|  2  | Variables, Input, Operators  | [Notes](Week1/Day2-Lecture2/Notes-Lecture2-Variables-Operators-IO.md) | [Code](Week1/Day2-Lecture2/Lecture2-Variables-Operators-IO.cpp) |
 
 
 ## 🔗 Useful Links
