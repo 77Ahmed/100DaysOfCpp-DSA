@@ -1,8 +1,3 @@
-Sure! Here's your **cleaned, formatted, and corrected version** of **Day 2: C++ Basics – Syntax, Variables, Input, and Operators** notes in a beginner-friendly format.
-
-You can **copy-paste this directly into `Notes-Day2.md`** or any Markdown file:
-
----
 
 # 📘 Day 2: C++ Basics – Syntax, Variables, Input, and Operators
 
