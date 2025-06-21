@@ -9,7 +9,6 @@ int main() {
     int a, b;
     cout << "Enter two numbers: ";
     cin >> a >> b;
-
     // Arithmetic
     int sum = a + b;
     int diff = a - b;

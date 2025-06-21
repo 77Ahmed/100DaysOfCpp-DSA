@@ -156,6 +156,3 @@ int main() {
 👉 Don’t memorize — **practice**.
 Write small programs, run them, and understand the flow.
 
----
-
-Let me know when you're ready for **Day 3**, and I’ll help with code, notes, and git steps again!
