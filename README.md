@@ -1,8 +1,7 @@
 # 💯 100 Days of C++ and DSA (Beginner to Confident)
 
 🎯 Goal: Learn C++, build DSA foundation & become consistent  
-📚 Resource: Apna College – Complete DSA in C++  
-             and some other online courses, ChatGPT, and more  
+📚 Resource: Apna College – Complete DSA in C++ and some other online courses, ChatGPT, and more  
 🧠 Background: No coding experience – starting from scratch
 
 ---
