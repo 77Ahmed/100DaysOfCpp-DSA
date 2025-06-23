@@ -1,6 +1,6 @@
-### 📘 Day 3: Conditional Statements & Loops in C++
+## 📘 Day 3: Conditional Statements & Loops in C++
 
-## 🧠 What We Learned Today
+### 🧠 What We Learned Today
 
 Today was a really important day because we started learning how to make decisions in code and how to repeat actions automatically using **loops**. Here's everything we understood, step-by-step:
 
