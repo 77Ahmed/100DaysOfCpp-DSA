@@ -217,17 +217,3 @@ int main() {
 
 ---
 
-## 🔎 What’s Next?
-
-Coming up in Day 4:
-
-* 🧩 Logical operators (`&&`, `||`, `!`)
-* 📊 Switch-case statements
-* 🔄 More practice on loops and nested logic
-* ⭐ Problem-solving patterns: sum, factorial, reverse, tables
-
----
-
-> ✨ Every day we’re building stronger logic. If we understand today’s concepts, we’ll be able to build calculators, games, and decision-based programs very soon!
-
-
